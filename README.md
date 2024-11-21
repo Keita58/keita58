@@ -1,6 +1,6 @@
 <h3>Hola! Benvinguts al meu perfil de Github ^^</h1>
 
-**Estadístiques vàries**
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=keita58&show_icons=true&theme=midnight-purple&hide_border=true" /></a> 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keita58&layout=compact&theme=midnight-purple&hide_border=true" /></a>   
