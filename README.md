@@ -1,10 +1,13 @@
-<h3>Hola! Benvinguts al meu perfil de Github ^^</h1>
+<h3 align="center">Hola! Benvinguts al meu perfil de Github ^^</h1>
 
-
-<div>
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=keita58&show_icons=true&theme=midnight-purple&hide_border=true" /></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keita58&layout=compact&theme=midnight-purple&hide_border=true" /></a>   
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keita58&layout=compact&theme=midnight-purple&hide_border=true" /></a>
+  <p>&nbsp;</p>
 </div>
+
+![dinoroar](https://github.com/user-attachments/assets/cce77750-e04b-462b-af14-d0ef625901e1)
+
 
 <!--
 **Keita58/keita58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![dinoroar](https://github.com/user-attachments/assets/cce77750-e04b-462b-af14-d0ef625901e1)
